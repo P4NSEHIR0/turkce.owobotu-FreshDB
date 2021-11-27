@@ -1,1 +1,2 @@
 YARDIM LAZIMDA GİTHUB ADRESİMDEKİ DİSCORD HESABINA YAZABİLİRSİNİZ 
+[Discord Profilim](https://discord.com/users/447133403700264962)
