@@ -1,6 +1,5 @@
 {
-  "sahip": "sahip id",
-  "token": "ODI4MjI0MTY0MDg2OTM5NjQ5.YGmd3A.WDjaNPSKFCCjM5MSyhuYgIu_bV0",
+  "token": "TOKEN,
   "prefix":["!" , "."],
-  "adminler" : ["447133403700264962","828224164086939649"]
+  "adminler" : ["447133403700264962",""]
 }
